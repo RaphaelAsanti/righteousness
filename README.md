@@ -21,3 +21,11 @@ Text will be refined for cadence, clarity, and integration with surrounding chap
 
 ## License
 See the **LICENSE** file for terms of use.
+---
+
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/
