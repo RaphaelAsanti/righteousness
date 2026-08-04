@@ -1,6 +1,6 @@
 # Unfinished Chapter on Righteousness
 
-A concise structural overview of the developing chapter on **Righteousness** for *The End of Time*.  
+A concise structural overview of the unfinished chapter on **Righteousness** for *The End of Time*.  
 This page outlines the emerging framework describing righteousness as a practiced structure rather than a belief, and notes that the chapter is still in active development.
 
 ---
