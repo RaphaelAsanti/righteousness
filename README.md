@@ -1,31 +1,49 @@
-# Righteousness
+# Unfinished Chapter on Righteousness
 
-This repository contains the working materials for the chapter **Righteousness** in the ebook *The End of Time*. The chapter explores righteousness as a learned process, developed the same way any skill is developed: through repetition, correction, and steady practice. It follows the developmental arc initiated by Moses, deepened by Jesus, and completed by Muhammad, showing how alignment grows across time.
+A concise structural overview of the developing chapter on **Righteousness** for *The End of Time*.  
+This page outlines the emerging framework describing righteousness as a practiced structure rather than a belief, and notes that the chapter is still in active development.
 
-## Proposed Chapter for *The End of Time*
-This work is a proposed new chapter for the ebook **The End of Time**, expanding the manuscript’s developmental structure and thematic progression.  
-You can read the full ebook here:  
-https://raphaelasanti.github.io/the-end-of-time/
-
-## Contents
-- **index.html** — Web‑formatted presentation of the chapter  
-- **righteousness.pdf** — Printable draft of the chapter  
-- **LICENSE** — Usage and distribution terms for this repository  
-
-## Purpose
-The chapter explains righteousness as a discipline rather than a belief. It describes how a person becomes aligned through practice, how the Abrahamic sequence forms a complete developmental process, and why most people choose pursuits that offer immediate reward instead of long‑term transformation.
-
-## Status
-Active draft.  
-Text will be refined for cadence, clarity, and integration with surrounding chapters.
-
-## License
-See the **LICENSE** file for terms of use.
 ---
 
-## Author
+### Files
+index.html — Primary page (HTML)  
+https://raphaelasanti.github.io/righteousness/
 
+### PDF
+https://raphaelasanti.github.io/righteousness/righteousness.pdf
+
+### License
+https://github.com/RaphaelAsanti/righteousness/blob/main/LICENSE
+
+---
+
+### Author
 Raphael E. Asanti  
 July 2026
 
-Main index: https://raphaelasanti.github.io/
+---
+
+### Related Pages
+Main Index  
+https://raphaelasanti.github.io/
+
+---
+
+### Donate
+This work is sustained entirely by voluntary contributions.
+
+**Cash App**  
+https://cash.app/$phirunltd
+
+**Gumroad (optional donation when downloading)**  
+https://phirun4.gumroad.com/l/zsmzjh
+
+### Contribute
+Share the public page on your social media to extend its reach:  
+https://raphaelasanti.github.io/righteousness/
+
+---
+
+### Free Ebook
+If you prefer not to donate, the same ebook is available here:  
+https://github.com/raphaelasanti/the-end-of-time/
